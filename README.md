@@ -2,7 +2,7 @@
 ## 项目功能介绍
 
 
-![](https://files.mdnice.com/user/3934/9e1efa11-9bd6-4c28-bc58-4bad26b78aba.png)
+![image](https://user-images.githubusercontent.com/44115602/183071618-3a52fac6-98d5-4f8e-9902-77908d07313f.png)
 
 当点击掘金的时候，就会获取掘金当前推荐的前端文章
 
