@@ -1,8 +1,10 @@
 [toc]
 ## 项目功能介绍
 
+该项目的出发点是获取最新最值得推荐的文章以及面经，供群友们学习使用。带领前端阳光的群友们一起成为技术大佬。
 
-![image](https://user-images.githubusercontent.com/44115602/183071618-3a52fac6-98d5-4f8e-9902-77908d07313f.png)
+
+![](https://files.mdnice.com/user/3934/9e1efa11-9bd6-4c28-bc58-4bad26b78aba.png)
 
 当点击掘金的时候，就会获取掘金当前推荐的前端文章
 
@@ -26,6 +28,11 @@
 
 
 ![](https://files.mdnice.com/user/3934/292acd11-4b03-4934-8cb5-c642be6dd9d7.png)
+
+>- 项目源码已经放到github，欢迎fork，欢迎star。
+>- 地址：https://github.com/Sunny-lucking/morning-news
+
+项目启动：分别进入server和client项目，执行`npm i`安装相关依赖，然后启动即可。
 
 
 ## 技术栈介绍
@@ -577,4 +584,14 @@ export default class Index extends BaseService {
 
 群员在我的带领下，技术突飞猛进。。。
 
-撒花撒花
+撒花撒花。。
+
+## 好文推荐
+这是我的github，欢迎大家star：https://github.com/Sunny-lucking/blog
+
+
+![](https://files.mdnice.com/user/3934/dfe0a44c-1596-45b2-9850-37a5cf2d3efe.png)
+
+
+
+![](https://files.mdnice.com/user/3934/51c96dc0-619b-4287-a59d-4fb9e136861c.png)
